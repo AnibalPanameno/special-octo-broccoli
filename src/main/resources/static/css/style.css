@@ -35,7 +35,7 @@
     position: absolute;
     left: 0;
     top: 0;
-    width: 50%;
+    width: 100%;
     height: auto;
     opacity: 0.3;
     vertical-align: middle;
@@ -47,7 +47,7 @@
 
 }
 section img{
-    width: 1000px;
+    width: 50%;
 }
 .infoText{
     margin: 50px;
