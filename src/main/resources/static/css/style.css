@@ -47,14 +47,13 @@
 
 }
 section img{
-    width: 100%;
+    width: 600px;
 }
 .infoText{
     margin: 50px;
-    margin-top: 250px;
+    margin-top: 50px;
     align-items: center;
-}
-.infoText h1{
+}.infoText h1{
     font-size: 3em;
     margin-left: -100px;
 }
